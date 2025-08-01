@@ -1,3 +1,4 @@
+package DsaPseudocode;
 public class ten {
     public static void main(String[] args) {
         int count=0;

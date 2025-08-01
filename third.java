@@ -1,3 +1,4 @@
+package DsaPseudocode;
 public class third {
     public static void main(String[] args) {
        int n=2;

@@ -1,3 +1,4 @@
+package DsaPseudocode;
 public class fifth {
     public static void main(String[] args) {
         int score=85;
